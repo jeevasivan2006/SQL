@@ -1,0 +1,28 @@
+{
+  "version": "3.0.0",
+  "lastUpdated": "2026-08-14T06:52:22.855Z",
+  "platforms": {
+    "leetcode": {
+      "submissions": {
+        "combine-two-tables": {
+          "questionId": "175",
+          "title": "Combine Two Tables",
+          "titleSlug": "combine-two-tables",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786690342855,
+              "runtime": "504 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Combine Two Tables/"
+            }
+          }
+        }
+      },
+      "username": "jeevasivan"
+    }
+  }
+}
