@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T04:57:04.928Z",
+  "lastUpdated": "2026-08-18T04:57:27.835Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -21,20 +21,20 @@
             }
           }
         },
-        "second-highest-salary": {
-          "questionId": "176",
-          "title": "Second Highest Salary",
-          "titleSlug": "second-highest-salary",
+        "nth-highest-salary": {
+          "questionId": "177",
+          "title": "Nth Highest Salary",
+          "titleSlug": "nth-highest-salary",
           "difficulty": "Medium",
           "tags": [
             "Database"
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1787029024928,
-              "runtime": "410 ms",
+              "syncedAt": 1787029047835,
+              "runtime": "486 ms",
               "memory": "0B",
-              "githubPath": "LeetCode/Database/Second Highest Salary/"
+              "githubPath": "LeetCode/Database/Nth Highest Salary/"
             }
           }
         }
