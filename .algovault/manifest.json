@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T04:57:27.835Z",
+  "lastUpdated": "2026-08-18T04:58:17.510Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -35,6 +35,23 @@
               "runtime": "486 ms",
               "memory": "0B",
               "githubPath": "LeetCode/Database/Nth Highest Salary/"
+            }
+          }
+        },
+        "employees-earning-more-than-their-managers": {
+          "questionId": "181",
+          "title": "Employees Earning More Than Their Managers",
+          "titleSlug": "employees-earning-more-than-their-managers",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787029097510,
+              "runtime": "383 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Employees Earning More Than Their Managers/"
             }
           }
         }
