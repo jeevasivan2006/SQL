@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T04:29:05.816Z",
+  "lastUpdated": "2026-08-20T04:29:19.752Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -103,23 +103,12 @@
               "runtime": "586 ms",
               "memory": "0B",
               "githubPath": "LeetCode/Database/Find Customer Referee/"
-            }
-          }
-        },
-        "managers-with-at-least-5-direct-reports": {
-          "questionId": "570",
-          "title": "Managers with at Least 5 Direct Reports",
-          "titleSlug": "managers-with-at-least-5-direct-reports",
-          "difficulty": "Medium",
-          "tags": [
-            "Database"
-          ],
-          "solutions": {
+            },
             "sql": {
-              "syncedAt": 1787200145816,
+              "syncedAt": 1787200159752,
               "runtime": "N/A",
               "memory": "N/A",
-              "githubPath": "LeetCode/Database/Managers with at Least 5 Direct Reports/"
+              "githubPath": "LeetCode/Database/Find Customer Referee/"
             }
           }
         }
