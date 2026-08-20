@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T04:58:17.510Z",
+  "lastUpdated": "2026-08-20T04:23:08.083Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -52,6 +52,23 @@
               "runtime": "383 ms",
               "memory": "0B",
               "githubPath": "LeetCode/Database/Employees Earning More Than Their Managers/"
+            }
+          }
+        },
+        "customers-who-never-order": {
+          "questionId": "183",
+          "title": "Customers Who Never Order",
+          "titleSlug": "customers-who-never-order",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787199788083,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Database/Customers Who Never Order/"
             }
           }
         }
