@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T04:23:08.083Z",
+  "lastUpdated": "2026-08-20T04:25:17.261Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -69,6 +69,23 @@
               "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/Database/Customers Who Never Order/"
+            }
+          }
+        },
+        "department-highest-salary": {
+          "questionId": "184",
+          "title": "Department Highest Salary",
+          "titleSlug": "department-highest-salary",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787199917261,
+              "runtime": "1033 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Department Highest Salary/"
             }
           }
         }
