@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T04:29:19.752Z",
+  "lastUpdated": "2026-08-20T04:30:00.822Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -109,6 +109,23 @@
               "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/Database/Find Customer Referee/"
+            }
+          }
+        },
+        "big-countries": {
+          "questionId": "595",
+          "title": "Big Countries",
+          "titleSlug": "big-countries",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787200200822,
+              "runtime": "329 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Big Countries/"
             }
           }
         }
