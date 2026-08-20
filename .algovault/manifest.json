@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T04:25:17.261Z",
+  "lastUpdated": "2026-08-20T04:25:44.646Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -72,20 +72,20 @@
             }
           }
         },
-        "department-highest-salary": {
-          "questionId": "184",
-          "title": "Department Highest Salary",
-          "titleSlug": "department-highest-salary",
-          "difficulty": "Medium",
+        "delete-duplicate-emails": {
+          "questionId": "196",
+          "title": "Delete Duplicate Emails",
+          "titleSlug": "delete-duplicate-emails",
+          "difficulty": "Easy",
           "tags": [
             "Database"
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1787199917261,
-              "runtime": "1033 ms",
+              "syncedAt": 1787199944646,
+              "runtime": "1459 ms",
               "memory": "0B",
-              "githubPath": "LeetCode/Database/Department Highest Salary/"
+              "githubPath": "LeetCode/Database/Delete Duplicate Emails/"
             }
           }
         }
