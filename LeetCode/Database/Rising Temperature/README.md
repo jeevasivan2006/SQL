@@ -5,9 +5,8 @@
 
 ## Problem Statement
 
-<p>Table: <code>Weather</code></p>
+Table: Weather
 
-<pre>
 +---------------+---------+
 | Column Name   | Type    |
 +---------------+---------+
@@ -18,21 +17,20 @@
 id is the column with unique values for this table.
 There are no different rows with the same recordDate.
 This table contains information about the temperature on a certain day.
-</pre>
 
-<p>&nbsp;</p>
 
-<p>Write a solution to find all dates&#39; <code>id</code> with higher temperatures compared to its previous dates (yesterday).</p>
+ 
 
-<p>Return the result table in <strong>any order</strong>.</p>
+Write a solution to find all dates' id with higher temperatures compared to its previous dates (yesterday).
 
-<p>The result format is in the following example.</p>
+Return the result table in any order.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+The result format is in the following example.
 
-<pre>
-<strong>Input:</strong> 
+ 
+Example 1:
+
+Input: 
 Weather table:
 +----+------------+-------------+
 | id | recordDate | temperature |
@@ -42,18 +40,41 @@ Weather table:
 | 3  | 2015-01-03 | 20          |
 | 4  | 2015-01-04 | 30          |
 +----+------------+-------------+
-<strong>Output:</strong> 
+Output: 
 +----+
 | id |
 +----+
 | 2  |
 | 4  |
 +----+
-<strong>Explanation:</strong> 
-In 2015-01-02, the temperature was higher than the previous day (10 -&gt; 25).
-In 2015-01-04, the temperature was higher than the previous day (20 -&gt; 30).
-</pre>
+Explanation: 
+In 2015-01-02, the temperature was higher than the previous day (10 -> 25).
+In 2015-01-04, the temperature was higher than the previous day (20 -> 30).
 
+## Examples
+
+```
+Input: 
+Weather table:
++----+------------+-------------+
+| id | recordDate | temperature |
++----+------------+-------------+
+| 1  | 2015-01-01 | 10          |
+| 2  | 2015-01-02 | 25          |
+| 3  | 2015-01-03 | 20          |
+| 4  | 2015-01-04 | 30          |
++----+------------+-------------+
+Output: 
++----+
+| id |
++----+
+| 2  |
+| 4  |
++----+
+Explanation: 
+In 2015-01-02, the temperature was higher than the previous day (10 -> 25).
+In 2015-01-04, the temperature was higher than the previous day (20 -> 30).
+```
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*

@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T04:28:17.590Z",
+  "lastUpdated": "2026-08-20T04:28:52.125Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -103,6 +103,23 @@
               "runtime": "586 ms",
               "memory": "0B",
               "githubPath": "LeetCode/Database/Find Customer Referee/"
+            }
+          }
+        },
+        "rising-temperature": {
+          "questionId": "197",
+          "title": "Rising Temperature",
+          "titleSlug": "rising-temperature",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1787200132124,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Database/Rising Temperature/"
             }
           }
         }
